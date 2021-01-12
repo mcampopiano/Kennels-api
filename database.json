@@ -1,0 +1,47 @@
+{
+  "animals": [
+    {
+      "id": 2,
+      "name": "Claire",
+      "breed": "Mini Schnauzer",
+      "locationId": 1,
+      "treatment": "Given pills to take for ten days for Colitis",
+      "customerId": 1
+    },
+    {
+      "id": 3,
+      "name": "spunky",
+      "breed": "little dog",
+      "locationId": 1,
+      "treatment": "gave updates",
+      "customerId": 1
+    }
+  ],
+  "customers": [
+    {
+      "email": "nicole@nicole.com",
+      "password": "Claire",
+      "name": "Nicole Flatfield",
+      "id": 1
+    },
+    {
+      "email": "something@that.com",
+      "password": "Fake",
+      "name": "Tera Dott",
+      "id": 2
+    }
+  ],
+  "employees": [],
+  "locations": [
+    {
+      "id": 1,
+      "name": "Nashville North",
+      "address": "8422 Johnson Pike"
+    },
+    {
+      "id": 2,
+      "name": "Nashville South",
+      "address": "209 Emory Drive"
+    }
+  ]
+}
